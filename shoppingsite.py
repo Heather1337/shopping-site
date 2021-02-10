@@ -18,6 +18,8 @@ options = {
     'statsd_port':8125
 }
 
+print("updated with datadog!!!!!!!!!!!!!")
+
 initialize(**options)
 
 app = Flask(__name__)
