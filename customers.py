@@ -2,6 +2,6 @@
 
 
 class Customer(object):
-    """Ubermelon customer."""
+    """Ubermelon customer. """
 
     # TODO: need to implement this!!!
